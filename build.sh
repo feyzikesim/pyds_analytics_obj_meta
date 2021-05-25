@@ -1,4 +1,4 @@
-NAME=pyds_tracker_meta
+NAME=pyds_analytics
 PKGS="gstreamer-1.0 gstreamer-video-1.0"
 NVDS_VERSION="5.1"
 NVDS_PATH="/opt/nvidia/deepstream/deepstream-${NVDS_VERSION}/sources/includes/"
